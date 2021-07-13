@@ -11,6 +11,6 @@ Ensemble de ressources pour mieux comprendre les principes de la programmation i
 
 ### Documents pédagogiques
 
-- Fichiers PDF des cours
-- Fichiers PDF des exercices
-- Scripts de correction
+- [Fichiers PDF des cours](https://github.com/gaellelelandais/teaching/tree/main/initiation-R-base/cours)
+- [Fichiers PDF des exercices](https://github.com/gaellelelandais/teaching/tree/main/initiation-R-base/exercices)
+- [Scripts de correction](https://github.com/gaellelelandais/teaching/tree/main/initiation-R-base/corrections)
