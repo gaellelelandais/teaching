@@ -6,4 +6,4 @@ Si des imprecisions ou des erreurs sont notées, je vous remercie de m'envoyer u
 
 # Liste des contenus
 
-- Initiation à la programmation R (cours en vidéos, exercices et correction).
+- [Initiation à la programmation R (cours en vidéos, exercices et correction)](https://gaellelelandais.github.io/teaching/initiation-R-base/).
